@@ -14,9 +14,9 @@
   </head>
 
 <body>
-
+    </div>
+        <img class="current-user-picture" src="channel-pictures/whut.jpg">
 <h1> TESTING.....</h1>
-<img src="whut.jpg" >
 <p>My first paragraph.</p>
 
 </body>
